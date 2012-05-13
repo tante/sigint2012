@@ -1,5 +1,5 @@
 body {
-  font: 14px "Helvetica", "Droid Sans", Verdana, sans-serif;
+  font: 14px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
   background: url(background.png);
   padding: 0;
   margin: 0;
@@ -26,6 +26,7 @@ div.slides, body.expose div.slides.nocontext {
   top: 0;
   position: absolute;
   display: block;
+  vertical-align: middle;
 }
 
 div.slides.nocontext {
@@ -116,6 +117,7 @@ body.expose .slide footer {
 }
 
 body.expose .slide .inner {
+    height: 90%;
 }
 
 body.expose .slide.far-past,
@@ -240,7 +242,9 @@ div.slide div.presenter_notes, div.slides div.presenter_notes {
 /* Slide styles */
 
 div.slide p {
-  font-size: 35px;
+  font-size: 40px;
+  vertical-align: middle;
+  text-align: center;
 }
 
 .slide.far-past {
@@ -280,7 +284,7 @@ body.three-d div.slides {
 header:not(:only-child) {
   font-family: "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
   font-weight: normal;
-  font-size: 50px;
+  font-size: 55px;
   letter-spacing: -.05em;
   color: black;
   text-shadow: rgba(0, 0, 0, 0.2) 0 2px 5px;
@@ -312,6 +316,7 @@ section, .slide header:only-child h1 {
   margin-top: 100px;
   display: block;
   overflow: hidden;
+  height: 100%;
 }
 
 img { display: block; margin: auto; }
@@ -349,7 +354,7 @@ pre {
 
 li {
   padding: 10px 0;
-  font-size: 35px;
+  font-size: 40px;
 }
 
 .slide header:only-child h1 {

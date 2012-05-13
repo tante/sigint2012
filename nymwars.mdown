@@ -32,10 +32,19 @@
 * Google+ launched June 2011
 * enforced strict "real name" policies
 * "fake name" accounts were banned/locked
+   * locked people out of other Google services as well 
+* hard to find friends with their weird names
 
 ---
 
-![firstworldcry](images/firstworldcry.jpg)
+# ![firstworldcry](images/firstworldcry.jpg)
+
+# Presenter Notes
+
+- Outcry on the internet
+   - danger to free speech
+   - Right to anonymity
+- Was it just #firstworldpromlem or was there something to it?
 
 ---
 
@@ -49,15 +58,35 @@
 
 ---
 
-# Define "name"
+# Definition
 
+    
+    
 "A name is a sorta-unique identifier for entities and objects aimed at being pronouncable and memorizeable by humans."
+
+# Presenter Notes
+
+- Names *work* IRL
+- are a tool for humans to interact with the world
+- allow communication about things and people
 
 ---
 
-# \*nyms therefore are
+# Naming options
 
-* Anonymous
-* Pseudonymous
-* "Nymous"
+* no name or known source:    
+  **anonymous**
+* attributed with the author's legal name   
+  **onymous**
+* attributed with some other namey thingy   
+  **pseudonymous**
+
+# Presenter Notes
+
+- Important to understand that pseudonymous is not anonymous
+
+---
+
+
+
 
