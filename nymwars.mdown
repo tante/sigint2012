@@ -29,19 +29,19 @@
 
 # Google+
 
-* Google+ launched INSERT DATE
+* Google+ launched June 2011
 * enforced strict "real name" policies
 * "fake name" accounts were banned/locked
 
 ---
 
-# crypicture
+![firstworldcry](images/firstworldcry.jpg)
 
 ---
 
 # Facebookhipsterpicture
 
-I hated pseudonyms before it was cool
+"I hated pseudonyms before it was cool"
 
 ---
 
@@ -51,7 +51,7 @@ I hated pseudonyms before it was cool
 
 # Define "name"
 
-A name is a sorta-unique identifier for entities and objects aimed at being pronouncable and memorizeable by humans.
+"A name is a sorta-unique identifier for entities and objects aimed at being pronouncable and memorizeable by humans."
 
 ---
 
