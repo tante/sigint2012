@@ -62,7 +62,10 @@
 
     
     
-"A name is a sorta-unique identifier for entities and objects aimed at being pronouncable and memorizeable by humans."
+"A name is a *sorta-unique identifier*    
+for *entities and objects* aimed at being   
+*pronouncable and memorizeable*   
+by humans."
 
 # Presenter Notes
 
@@ -86,6 +89,9 @@
 - Important to understand that pseudonymous is not anonymous
 
 ---
+
+
+
 
 
 
