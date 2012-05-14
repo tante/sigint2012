@@ -339,12 +339,21 @@ section img.align-left {
   margin-left: 0;
 }
 
+section a{
+   font-size: 15px;
+}
+
+section strong{
+    color: white;
+    background: black;
+}
+
 a {
   color: inherit;
   display: inline-block;
-  text-decoration: none;
+  text-decoration: underline;
   line-height: 110%;
-  border-bottom: 2px solid #3f3f3f;
+  /*border-bottom: 2px solid #3f3f3f;*/
 }
 
 pre {
