@@ -48,13 +48,20 @@
 
 ---
 
-# Facebookhipsterpicture
+# ![facebookhipster](images/facebookhipster.png)
 
-"I hated pseudonyms before it was cool"
+# Presenter Notes
+
+- Google wasn't alone
+- Facebook has had that same "problem" for a while
 
 ---
 
 # "Real name", "pseudonym", say what?
+
+# Presenter Notes
+
+- Before we go on, let's clear up some Definitions
 
 ---
 
@@ -79,16 +86,53 @@ by humans."
 
 * no name or known source:    
   **anonymous**
-* attributed with the author's legal name   
+* having a name   
   **onymous**
-* attributed with some other namey thingy   
+* special case: Having a fictitious name
   **pseudonymous**
 
 # Presenter Notes
 
 - Important to understand that pseudonymous is not anonymous
+  - pseudonymous is to opposite of anonymous by definition
 
 ---
+
+# The "real name" myth
+
+---
+
+# Legal name mystified
+
+* names are traditionally imbued with a lot of meaning
+* "powers" of the *real name*
+    * being able to cast spells on someone/thing
+    * Fairy tales: Rumpelstiltskin 
+* name day
+* Even today you can only sign documents with your legal name
+    * even if your signature is unreadable!
+
+# Presenter Notes
+
+- "mystic" powers of the legal name are still somewhat lingering
+
+---
+
+# Why care for legal names?
+
+# Presenter Notes
+
+- In the following slides we look at arguments for the use of real names
+
+---
+
+# The "Internet Fuckwad Theory"
+
+![paanonymity](images/penny_arcade_anonymity.jpg)
+
+---
+
+
 
 
 
