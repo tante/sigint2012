@@ -104,9 +104,8 @@ by humans."
 
 # Legal name mystified
 
-* names are traditionally imbued with a lot of meaning
-* "powers" of the *real name*
-    * being able to cast spells on someone/thing
+* names are imbued with strong meaning
+    * historical: being able to cast spells on someone/thing
     * Fairy tales: Rumpelstiltskin 
 * name day
 * Even today you can only sign documents with your legal name
@@ -130,9 +129,22 @@ by humans."
 
 ![paanonymity](images/penny_arcade_anonymity.jpg)
 
+# Presenter Notes
+
+- (based on misunderstanding of anonymity/pseudonymity)
+- If people feel anonymous they behave badly, impolite
+
 ---
 
+# Identity Management
 
+Quote Google Support:
+
+"Google Profiles is a product that works best in the identified state. This way **you can be certain you’re connecting with the right person**, and others will have confidence **knowing that there is someone real behind the profile** they’re checking out."
+
+[Google Support Link](http://productforums.google.com/forum/#!category-topic/gmail/contacts-and-sync/J2Vw659V7Lk)
+
+---
 
 
 
