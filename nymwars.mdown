@@ -144,6 +144,46 @@ Quote Google Support:
 
 [Google Support Link](http://productforums.google.com/forum/#!category-topic/gmail/contacts-and-sync/J2Vw659V7Lk)
 
+# Presenter Notes
+
+- Service providers want to limit
+   - Support work
+   - impersonation
+- (Identity Management will be a huge business in the future)
+
+---
+
+# Why "real name" policies fail
+
+# Presenter Notes
+
+- After we've seen the pro-arguments let's look at some contra arguments
+
+---
+
+# Validating names is hard!
+
+* mononymous users
+* name order
+    * western order: *given-name family-name*
+    * eastern order: *family-name given-name*
+    * russian name: *given-name patronymic family-name*
+
+# Presenter Notes
+
+
+---
+
+# names lack uniqueness
+
+![justinbieberfacebook](images/justin_biebers_facebook.jpg)
+
+# Presenter Notes
+
+- many people share the same name
+- people worked around that with pseudonyms and nicknames
+  - that tactic is destroyed
+
 ---
 
 
