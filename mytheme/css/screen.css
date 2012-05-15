@@ -242,7 +242,7 @@ div.slide div.presenter_notes, div.slides div.presenter_notes {
 /* Slide styles */
 
 div.slide p {
-  font-size: 40px;
+  font-size: 35px;
   vertical-align: middle;
   text-align: center;
 }
@@ -340,7 +340,7 @@ section img.align-left {
 }
 
 section a{
-   font-size: 15px;
+   /*font-size: 15px;*/
 }
 
 section strong{
@@ -363,7 +363,7 @@ pre {
 
 li {
   padding: 10px 0;
-  font-size: 40px;
+  font-size: 35px;
 }
 
 .slide header:only-child h1 {
