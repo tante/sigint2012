@@ -1,4 +1,10 @@
-# #nymwars and the public sphere
+# "What's in a name?"   
+
+*#nymwars and the public sphere*   
+
+ <hr>
+
+ SIGINT 2012
 
 ---
 
@@ -171,7 +177,7 @@ Quote Google Support:
 
 # Presenter Notes
 
-
+- many more naming schemes possible!
 ---
 
 # names lack uniqueness
@@ -238,13 +244,16 @@ Quote Google Support:
 # Presenter Notes
 
 - And not really cause we need to punish bad behavior
-- It's 
+- Only attribution allows meaningful discussion
 
 ---
 
 # Arguments don't speak for themselves
 
 # Presenter Notes
+
+- sounds wrong?
+- let's look at an example!
 
 ---
 
@@ -255,8 +264,50 @@ Quote Google Support:
 - It makes huge difference who says that
 - "Left": Raise taxes on wealthy
 - "Right": Cut government spending
+- Still everybody agrees
+- History of a person's arguments
 
 ---
+
+# wrapup
+
+# Presenter Notes
+
+- But anonymity is not stupid, it has places
+- let's wrap up with a conclusion
+
+---
+
+# Anonymity has its place - if you don't want to influence the public.
+
+# Presenter Notes
+
+- You should be able to read certain services anonymously
+- Doesn't really work for anything interacty
+    - because interactions break you anonymity
+
+---
+
+# "Real name" is stupid.
+
+# Presenter Notes
+
+- You should be allowed to change your name
+- Why should a name your parents made up mean more than one you chose?
+
+---
+
+# No anonymity in public discussions.
+
+# Presenter Notes
+
+- (but Pseudonyms are fine!)
+- We need it to understand which arguments are good
+- Honesty/Reputation
+
+---
+
+# Thank you.
 
 
 
