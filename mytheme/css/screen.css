@@ -49,8 +49,8 @@ div.slide {
   left: 50%;
   top: 50%;
   background: -webkit-gradient(linear, left bottom, left top, from(#bbd), to(#fff));
-  background-color: #eee;
-  background: -moz-linear-gradient(bottom, #bbd, #fff);
+  background-color: #fff; /* #eee; */
+  background: -moz-linear-gradient(bottom, #c9c9c9, #fff);
   -webkit-transition: margin 0.25s ease-in-out;
   -moz-transition: margin 0.25s ease-in-out;
   -o-transition: margin 0.25s ease-in-out;
