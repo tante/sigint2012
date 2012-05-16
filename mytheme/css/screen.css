@@ -1,5 +1,5 @@
 body {
-  font: 14px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+  font: 14px "Helvetica", "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
   background: url(background.png);
   padding: 0;
   margin: 0;
@@ -201,7 +201,7 @@ body.presenter_view div#current_presenter_notes {
 }
 
 body.presenter_view div#current_presenter_notes section {
-  font-family: "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+  font-family: "Helvetica", "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
   color: black;
   text-shadow: rgba(0, 0, 0, 0.2) 0 2px 5px;
   display: block;
@@ -282,7 +282,7 @@ body.three-d div.slides {
 /* Content */
 
 header:not(:only-child) {
-  font-family: "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+  font-family: "Helvetica", "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
   font-weight: normal;
   font-size: 55px;
   letter-spacing: -.05em;
@@ -308,7 +308,7 @@ header h2:first-child {
 }
 
 section, .slide header:only-child h1 {
-  font-family: "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+  font-family: "Helvetica", "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
   color: #3f3f3f;
   text-shadow: rgba(0, 0, 0, 0.2) 0 2px 5px;
   margin-left: 30px;
