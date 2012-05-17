@@ -76,9 +76,9 @@
 
     
     
-"A name is a *sorta-unique identifier*    
-for *entities and objects* aimed at being   
-*pronouncable and memorizeable*   
+"A name is a **sorta-unique identifier**    
+for **entities and objects** aimed at being   
+**pronouncable and memorable**
 by humans."
 
 # Presenter Notes
