@@ -7,3 +7,150 @@ Eine neue Hackerethik
 <hr>
 
 SIGINT 2012
+
+---
+
+# I will be your host today
+
+* tante
+* blog [http://the-gay-bar.com](http://the-gay-bar.com)
+* twitter [@tante](http://the-gay-bar.com)
+* Wissenschaftler
+* Mitglied des CCC
+* findet Affen groovy
+
+# Presenter Notes
+
+- Studium Informatik und Philosophie
+
+---
+
+# Warum diese Session?
+
+# Presenter Notes
+
+- Es gibt eine Hackerehtik und die suckt
+   - widersprüchlich
+   - kaum anwendbar
+- Umfrage: "Wer kennt die Hackerethik?"
+
+---
+
+# Wofür überhaupt eine Ethik?
+
+<br>
+
+* Teil der praktischen Philosophie
+   * Regeln menschlichen Handelns
+* "Die Lehre vom Guten"
+* Moral
+* "Wie soll ich handeln?"
+
+# Presenter Notes
+
+* Ethik soll helfen, gute Entscheidungen zu treffen
+
+---
+
+# Kategorischer Imperativ
+
+<br>
+<br>
+
+„Handle so, daß die **Maxime deines Willens** jederzeit zugleich als **Prinzip einer allgemeinen Gesetzgebung** gelten könne.“
+
+<br>
+Immanuel Kant, 1785
+
+# Presenter Notes
+
+- sehr generisch
+- "goldene Regel"
+- passt überall und nirgens
+
+---
+
+# Warum spezielle Ethik?
+
+* Definition eines Common Ground
+* Handreichung für junge Hacker
+    * "Hackersozialisierung Internet"
+* macht "Hacker" nach außen kommunizierbar
+    * Hacker!=Cracker
+
+# Presenter Notes
+
+- junge hacker haben nicht immer eine Gruppe um sich, die Moral liefert
+- "Hacker, das sind doch diese bösen" muss weg
+
+---
+# Ja und? Wir haben doch ne Ethik!
+
+# Presenter Notes
+
+- Haben ja, aber stinkt
+- 
+
+---
+
+# Hackerethik
+
+[http://ccc.de/hackerethics](http://ccc.de/hackerethics)
+
+* Der Zugang zu Computern und allem, was einem zeigen kann, wie diese Welt funktioniert, sollte unbegrenzt und vollständig sein.
+* Alle Informationen müssen frei sein.
+* Mißtraue Autoritäten - fördere Dezentralisierung
+
+# Presenter Notes
+
+- Geht zurück auf "Hackers" von Steven Levy
+- Erweiterung durch den CCC (letzter Satz)
+
+---
+
+# Hackerethik (Fortsetzung)
+
+* Beurteile einen Hacker nach dem, was er tut und nicht nach üblichen Kriterien wie Aussehen, Alter, Rasse, Geschlecht oder gesellschaftlicher Stellung.
+* Man kann mit einem Computer Kunst und Schönheit schaffen.
+* Computer können dein Leben zum Besseren verändern.
+* Mülle nicht in den Daten anderer Leute.
+* Öffentliche Daten nützen, private Daten schützen.
+
+# Presenter Notes
+
+
+---
+
+# Probleme?
+
+* Der Zugang zu Computern und allem, was einem zeigen kann, wie diese Welt funktioniert, sollte unbegrenzt und vollständig sein. <img style="display:inline;" src="images/positive.png">
+* Alle Informationen **müssen** frei sein. (<img style="display:inline;" src="images/positive.png">)
+* Mißtraue Autoritäten - fördere Dezentralisierung <img style="display:inline;" src="images/positive.png">
+* Beurteile einen **Hacker** nach dem, was er tut und nicht nach **üblichen Kriterien** wie Aussehen, Alter, Rasse, Geschlecht oder gesellschaftlicher Stellung. <img style="display:inline;" src="images/negative.png">
+
+# Presenter Notes
+
+- Zugang ist \o/
+- Information muss?
+- Dezentralisierung \o/
+- hackerbeurteilung, nicht Menschenbeurteilung?
+
+---
+
+# Probleme?
+
+* Man kann mit einem Computer Kunst und   
+  Schönheit schaffen. <img style="display:inline;" src="images/negative.png"> 
+* Computer können **dein** Leben zum Besseren verändern. <img style="display:inline;" src="images/negative.png"> 
+* **Mülle** nicht in den **Daten anderer Leute**. (<img style="display:inline;" src="images/positive.png">)
+* **Öffentliche Daten nützen, private Daten schützen.** <img style="display:inline;" src="images/negative.png"> 
+
+Insgesamt fehlt Handlungshilfe.
+
+# Presenter Notes
+
+- 1+2 Capt. Obvious und hilft nicht beim Handeln
+- 2: "Dein Leben"?
+- Define "mülle". Was sind Daten anderer Leute?
+- Der letzte takes the cake: Widerspruche zu "Daten müssen frei sein"
+
