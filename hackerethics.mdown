@@ -33,6 +33,7 @@ SIGINT 2012
    - widersprüchlich
    - kaum anwendbar
 - Umfrage: "Wer kennt die Hackerethik?"
+- Disclaimer: ich kippe hier jetzt nicht Brillianz aus
 
 ---
 
@@ -169,4 +170,134 @@ Insgesamt fehlt Handlungshilfe.
 
 ![hacker](images/hackervenn.png)
 
+# Presenter Notes
+
+- Hacker vereinen ne Menge Eigenschaften
+
+
 ---
+
+# Diskussionsvorschlag
+
+# Presenter Notes
+
+---
+
+# Axiom 1:<br> Daten sind **neutrale Objekte**.
+
+# Presenter Notes
+
+- privat/öffentlich passen nicht als Kategorien
+- Daten _wollen_ und _müssen_ nichts
+
+---
+
+# Axiom 2:<br> Jeder Mensch hat das **Grundrecht auf Kommunikation** und den Ausdruck seiner oder ihrer Meinungen, Ideen, Gedanken und Wünsche.
+
+# Presenter Notes
+
+- Zerstörung von Kommunikationsinfrastruktur ist nicht akzeptabel, nie
+
+---
+
+# Regel 1:<br> Der kategorische Imperativ gilt auch beim Hacken.
+
+# Presenter Notes
+
+- Gute Basis
+
+---
+
+# Regel 2:<br> Im Zweifelsfall entscheide Dich für die **Interessen der Einzelperson**.
+
+# Presenter Notes
+
+- Personen > Organisationen
+- Personen müssen besser geschützt werden
+    - Egal, was ihre Position ist
+
+---
+
+# Regel 3:<br> **Vermehre öffentliches Wissen**.
+
+# Presenter Notes
+
+- Wissen soll verbreitet werden
+- Wenn etwas nur Dein Wissen vermehrt, ist es falsch
+- Es sollen _alle_ mit profitieren
+- Veröffentliche, veröffentliche, veröffentliche.
+
+---
+
+# Regel 4:<br> Akzeptiere und **achte deine Mitmenschen** und ihre Bedürfnisse, bilde keine Eliten.
+
+# Presenter Notes
+
+- Akzeptiere nicht alle Meinungen
+- Aber Stelle Dich, Deine Gruppe niemals über andere
+- Empathie
+
+---
+
+# Regel 5:<br> Kümmere Dich um die anderen Hacker.
+
+# Presenter Notes
+
+- Burnout
+- Depression
+- We can fight that.
+
+---
+
+# Regel 6:<br> Schaffe mehr Möglichkeiten in der Welt. Wenn Du die Wahl hast, **baue statt zerstöre**.
+
+# Presenter Notes
+
+- Baue neue Kommunikationskanäle
+- Baue neue Wissensdatenbanken
+
+---
+
+# Regel 7:<br> Lass Dich nicht **als Werkzeug missbaruchen**.
+
+# Presenter Notes
+
+- Hacker setzen eigene Agenda
+- keine "KGB Hacks"
+
+---
+
+# Regel 8:<br> **Aussagen, Regeln und Systeme** sind dazu da, **herausgefordert** zu werden.
+
+# Presenter Notes
+
+- Seht durch den Bullshit.
+- Keine Idole, jeder reden potentiell Bullshit.
+
+---
+
+# Regel 9:<br> Hab **Spaß**, sei **kreativ**, sei eine Kraft der **positiven Veränderung**.
+
+# Presenter Notes
+
+- Ihr rockt. Rockt weiter, rockt mehr.
+
+---
+
+# Heuristik: Wenn Du mehr als 2 Regeln brichst, ist es eine schlechte Idee.
+
+---
+
+# Das hier kann nur ein Start der Diskussion sein. <br> Jetzt seid Ihr dran!
+
+# Presenter Notes
+
+- Tragt die Diskussion in Eure Hackerspaces und Gruppen
+- Fehlen Regeln?
+- Sind Regeln zu viel/schlecht formuliert?
+
+---
+
+# Danke.
+
+
