@@ -284,7 +284,7 @@ Insgesamt fehlt Handlungshilfe.
 
 ---
 
-# Heuristik: Wenn Du mehr als 2 Regeln brichst, ist es eine schlechte Idee.
+# Heuristik: Wenn Du mehr als **2 Regeln** brichst, ist es eine schlechte Idee.
 
 ---
 
