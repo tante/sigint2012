@@ -152,5 +152,21 @@ Insgesamt fehlt Handlungshilfe.
 - 1+2 Capt. Obvious und hilft nicht beim Handeln
 - 2: "Dein Leben"?
 - Define "mülle". Was sind Daten anderer Leute?
-- Der letzte takes the cake: Widerspruche zu "Daten müssen frei sein"
+- Der letzte takes the cake: Widerspruche zu "Daten müssen frei sein" zu "Wissen über Welt"
 
+---
+
+# Wie bauen wir eine bessere Ethik?
+
+# Presenter Notes
+
+- Schwächen der alten Ethik aufnehmen und fixen
+- Ausgehen von der Frage, was ein Hacker ist
+
+---
+
+# Was ist ein Hacker?
+
+![hacker](images/hackervenn.png)
+
+---
