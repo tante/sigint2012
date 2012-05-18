@@ -43,6 +43,10 @@
    * locked people out of other Google services as well 
 * hard to find friends with their weird names
 
+# Presenter Notes
+
+- many actual legal names were banned
+
 ---
 
 # ![firstworldcry](images/firstworldcry.jpg)
@@ -70,13 +74,14 @@
 # Presenter Notes
 
 - Before we go on, let's clear up some Definitions
+- people wrongfully associate those things with anonymity
 
 ---
 
 # Definition
 
     
-    
+<br>    
 "A name is a **sorta-unique identifier**    
 for **entities and objects** aimed at being   
 **pronouncable and memorable**
@@ -93,20 +98,25 @@ by humans."
 # Naming options
 
 * no name or known source:    
-  **anonymous**
+  <center>**anonymous**</center>
 * having a name   
-  **onymous**
+  <center>**onymous**</center>
 * special case: Having a fictitious name
-  **pseudonymous**
+  <center>**pseudonymous**</center>
 
 # Presenter Notes
 
 - Important to understand that pseudonymous is not anonymous
-  - pseudonymous is to opposite of anonymous by definition
+  - pseudonymous is opposite of anonymous by definition
 
 ---
 
 # The "real name" myth
+
+# Presenter Notes
+
+- The term "real name" gets thrown around
+- But what does it mean
 
 ---
 
@@ -129,7 +139,7 @@ by humans."
 
 # Presenter Notes
 
-- In the following slides we look at arguments for the use of real names
+- In the following slides we look at arguments for the use of legal names
 
 ---
 
@@ -178,10 +188,13 @@ Quote Google Support:
     * eastern order: *family-name given-name*
     * russian name: *given-name patronymic family-name*
 
+=> false positives
+
 # Presenter Notes
 
 - many more naming schemes possible!
 - And who's to say "Peter Peterson" is "real" or not?
+- many many false positives
 
 ---
 
@@ -224,7 +237,7 @@ Quote Google Support:
 
 ---
 
-# In the end it is about attribution and reputation.
+# In the end it is about **attribution** and **reputation**.
 
 # Presenter Notes
 
@@ -253,7 +266,7 @@ Quote Google Support:
 
 ---
 
-# Arguments don't speak for themselves
+# Arguments don't speak for themselves.
 
 # Presenter Notes
 
@@ -279,7 +292,7 @@ Quote Google Support:
 # Presenter Notes
 
 - But anonymity is not stupid, it has places
-- let's wrap up with a conclusion
+- let's wrap up with some conclusions
 
 ---
 
@@ -290,15 +303,19 @@ Quote Google Support:
 - You should be able to read certain services anonymously
 - Doesn't really work for anything interacty
     - because interactions break you anonymity
+- What's with Whistleblowers?
+    - They put data out that others filter, check and redistribute
 
 ---
 
-# "Real name" is stupid.
+# "Real name" is stupid.™
 
 # Presenter Notes
 
 - You should be allowed to change your name
 - Why should a name your parents made up mean more than one you chose?
+- Pseudonyms are often more useful than legal names
+- If yor service demands legal names it is stupid(TM)
 
 ---
 
@@ -313,6 +330,4 @@ Quote Google Support:
 ---
 
 # Thank you.
-
-
 
