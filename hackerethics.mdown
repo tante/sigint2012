@@ -146,7 +146,7 @@ Immanuel Kant, 1785
 * **Mülle** nicht in den **Daten anderer Leute**. (<img style="display:inline;" src="images/positive.png">)
 * **Öffentliche Daten nützen, private Daten schützen.** <img style="display:inline;" src="images/negative.png"> 
 
-Insgesamt fehlt Handlungs- und Entscheidungshilfe.
+Insgesamt fehlt Handlungs- und Entscheidungshilfe
 
 # Presenter Notes
 
@@ -154,6 +154,7 @@ Insgesamt fehlt Handlungs- und Entscheidungshilfe.
 - 2: "Dein Leben"?
 - Define "mülle". Was sind Daten anderer Leute?
 - Der letzte takes the cake: Widerspruche zu "Daten müssen frei sein" zu "Wissen über Welt"
+- alles zu sehr auf Daten und Software fixiert
 
 ---
 
@@ -163,6 +164,7 @@ Insgesamt fehlt Handlungs- und Entscheidungshilfe.
 
 - Schwächen der alten Ethik aufnehmen und fixen
 - Ausgehen von der Frage, was ein Hacker ist
+- Neue Problemklassen: Biohacking usw
 
 ---
 
