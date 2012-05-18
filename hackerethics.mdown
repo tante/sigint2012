@@ -89,8 +89,7 @@ Immanuel Kant, 1785
 
 # Presenter Notes
 
-- Haben ja, aber stinkt
-- 
+- Haben ja, aber funktioniert nicht
 
 ---
 
@@ -105,7 +104,7 @@ Immanuel Kant, 1785
 # Presenter Notes
 
 - Geht zurück auf "Hackers" von Steven Levy
-- Erweiterung durch den CCC (letzter Satz)
+- Erweiterung durch den CCC
 
 ---
 
@@ -119,6 +118,7 @@ Immanuel Kant, 1785
 
 # Presenter Notes
 
+- Erweiterung durch den CCC (letzter Satz)
 
 ---
 
@@ -146,7 +146,7 @@ Immanuel Kant, 1785
 * **Mülle** nicht in den **Daten anderer Leute**. (<img style="display:inline;" src="images/positive.png">)
 * **Öffentliche Daten nützen, private Daten schützen.** <img style="display:inline;" src="images/negative.png"> 
 
-Insgesamt fehlt Handlungshilfe.
+Insgesamt fehlt Handlungs- und Entscheidungshilfe.
 
 # Presenter Notes
 
@@ -173,13 +173,16 @@ Insgesamt fehlt Handlungshilfe.
 # Presenter Notes
 
 - Hacker vereinen ne Menge Eigenschaften
-
+- das hier ist "meine" Vorstellung
 
 ---
 
 # Diskussionsvorschlag
 
 # Presenter Notes
+
+- Ein Start
+- Keine fertige Lösung
 
 ---
 
@@ -197,6 +200,7 @@ Insgesamt fehlt Handlungshilfe.
 # Presenter Notes
 
 - Zerstörung von Kommunikationsinfrastruktur ist nicht akzeptabel, nie
+  - Auch nicht bei Nazis
 
 ---
 
@@ -205,10 +209,11 @@ Insgesamt fehlt Handlungshilfe.
 # Presenter Notes
 
 - Gute Basis
+- tut nicht weh
 
 ---
 
-# Regel 2:<br> Im Zweifelsfall entscheide Dich für die **Interessen der Einzelperson**.
+# Regel 2:<br> Schütze die **Interessen der Einzelperson**.
 
 # Presenter Notes
 
@@ -233,9 +238,9 @@ Insgesamt fehlt Handlungshilfe.
 
 # Presenter Notes
 
-- Akzeptiere nicht alle Meinungen
+- Akzeptiere _nicht_ alle Meinungen
 - Aber Stelle Dich, Deine Gruppe niemals über andere
-- Empathie
+- **Empathie**
 
 ---
 
@@ -249,16 +254,17 @@ Insgesamt fehlt Handlungshilfe.
 
 ---
 
-# Regel 6:<br> Schaffe mehr Möglichkeiten in der Welt. Wenn Du die Wahl hast, **baue statt zerstöre**.
+# Regel 6:<br> Schaffe mehr Möglichkeiten in der Welt. **Bauen statt zerstören**.
 
 # Presenter Notes
 
 - Baue neue Kommunikationskanäle
 - Baue neue Wissensdatenbanken
+- Vernichte nicht. 
 
 ---
 
-# Regel 7:<br> Lass Dich nicht **als Werkzeug missbaruchen**.
+# Regel 7:<br> Lass Dich nicht **als Werkzeug missbrauchen**.
 
 # Presenter Notes
 
@@ -273,6 +279,7 @@ Insgesamt fehlt Handlungshilfe.
 
 - Seht durch den Bullshit.
 - Keine Idole, jeder reden potentiell Bullshit.
+   - auch ich
 
 ---
 
@@ -284,7 +291,12 @@ Insgesamt fehlt Handlungshilfe.
 
 ---
 
-# Heuristik: Wenn Du mehr als **2 Regeln** brichst, ist es eine schlechte Idee.
+# Heuristik: Wenn Du **2 oder mehr Regeln** brichst, ist es eine schlechte Idee.
+
+# Presenter Notes
+
+- Wenn Du eine Regel bricht, solltest Du nen guten Grund haben
+- Brich keine Regeln
 
 ---
 
@@ -295,9 +307,9 @@ Insgesamt fehlt Handlungshilfe.
 - Tragt die Diskussion in Eure Hackerspaces und Gruppen
 - Fehlen Regeln?
 - Sind Regeln zu viel/schlecht formuliert?
+- Ich mach nen Blogpost, da können wir gemeinsam kommentieren
 
 ---
 
 # Danke.
-
 
