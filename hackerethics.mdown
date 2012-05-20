@@ -33,6 +33,7 @@ SIGINT 2012
    - widersprüchlich
    - kaum anwendbar
 - Umfrage: "Wer kennt die Hackerethik?"
+- Hacker Lebensumstände haben sich geändert
 - Disclaimer: ich kippe hier jetzt nicht Brillianz aus
 
 ---
@@ -263,6 +264,7 @@ Insgesamt fehlt Handlungs- und Entscheidungshilfe
 - Baue neue Kommunikationskanäle
 - Baue neue Wissensdatenbanken
 - Vernichte nicht. 
+    - Vernichte auch keine Menschen, baue keine Waffen
 
 ---
 
@@ -275,7 +277,7 @@ Insgesamt fehlt Handlungs- und Entscheidungshilfe
 
 ---
 
-# Regel 8:<br> **Aussagen, Regeln und Systeme** sind dazu da, **herausgefordert** zu werden.
+# Regel 8:<br> **Fordere Aussagen, Regeln und Systeme heraus**, challenge Authorities.
 
 # Presenter Notes
 
@@ -290,6 +292,14 @@ Insgesamt fehlt Handlungs- und Entscheidungshilfe
 # Presenter Notes
 
 - Ihr rockt. Rockt weiter, rockt mehr.
+
+---
+
+# ![obeyrules](images/obeyalltherules.jpg)
+
+# Presenter Notes
+
+- Wenn ich das alles einhalte, kann ich ja fast nix mehr tun
 
 ---
 
